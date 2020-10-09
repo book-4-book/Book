@@ -224,6 +224,7 @@ img {
     max-width: 100%;
     margin-left: 10px;
     margin-top: 10px;
+    overflow: auto;
     
 
   }
@@ -266,6 +267,43 @@ img {
   height: 10px;
   background-color: gray;
 }
+
+
+.wind2{
+  background-color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+  max-width: 100%;
+  height: 400px;
+  overflow: auto;
+  
+}
+
+.book_cat_head{
+  background-color: #471a1a;
+  width: 100%;
+  height: 50px;
+}
+
+.book_cat{
+color: white;
+display: flex;
+flex-direction: column;
+float: left;
+margin-left: 100px;
+padding-top: 10px;
+font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
 
 
 
