@@ -306,12 +306,16 @@ font-size: 20px;
   flex-direction: column;
   float: left;
   max-width: 100%;
+  margin-top: 20px;
+  margin-left: 20px;
 }
 .s_catergory_col{
   display: flex;
   flex-direction: column;
   float: left;
   max-width: 100%;
+  margin-top: 20px;
+  margin-left: 20px;
 
 
 }
@@ -320,12 +324,16 @@ font-size: 20px;
   flex-direction: column;
   float: left;
   max-width: 100%;
+  margin-top: 20px;
+  margin-left: 20px;
 }
-.f_catergory_col{
+.fo_catergory_col{
   display: flex;
   flex-direction: column;
   float: left;
   max-width: 100%;
+  margin-top: 20px;
+  margin-left: 20px;
 }
 
 .cat_1{
@@ -335,13 +343,19 @@ font-size: 20px;
   display: flex;
   flex-direction: column;
   float: left;
+  margin-left: 10px;
 }
 
 .cat_lable{
-  width: 300px;
+  width: 200px;
   display: flex;
   flex-direction: column;
   float: left;
+  margin-left: 10px;
+}
+
+.c1{
+  padding-top: 5px;
 }
 
 
