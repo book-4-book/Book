@@ -37,3 +37,12 @@ h2 span.spacer {
     flex-direction: column;
     height: 500px;
  }
+
+ .head_about{
+
+ }
+
+ .mission_about{
+    background-color: lightgoldenrodyellow;
+    height: 500px;
+ }
