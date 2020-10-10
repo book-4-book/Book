@@ -59,3 +59,26 @@ h2 span.spacer {
      
  }
 
+ .how_start{
+     margin-top: 20px;
+     max-width: 100%;
+     background-color: linen;
+ }
+
+ .how_start_pic{
+     width: 400px;
+     height: 500px;
+     float: left;
+     display: flex;
+     flex-direction: column;
+ }
+
+ .about_how_start{
+     max-width: 100%;
+     float: left;
+     display: flex;
+     flex-direction: column;
+     margin-left: 20px;
+     background-color: rgb(209, 209, 150);
+ }
+
