@@ -1,12 +1,16 @@
+.body{
+    background-color: rgb(160, 168, 175);
+}
+
 .picture_change{
-    max-width: 500px;
+    max-width: 100%;
+    background-color: lightslategrey;
+   padding-top: 10px;
+   padding-bottom: 10px;
+
+}
+
+.mySlides {
     display:none;
+    
 }
-
-
-.sliding{
-    width: 500px;
-    height: 300px;
-}
-
-.mySlides {display:none;}
