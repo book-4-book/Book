@@ -23,3 +23,17 @@ h2 span.spacer {
      margin-top: 200px;
      background-color: lightyellow;
  }
+
+ .col-xs-12, .col-md-8{
+     float: left;
+     display: flex;
+     flex-direction: column;
+     height: 200px;
+     background-color: lavender;
+ }
+ .col-xs-6,.col-md-4{
+    float: left;
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+ }
