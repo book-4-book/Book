@@ -1,4 +1,4 @@
-.body{
+.cantainer{
     background-color: rgb(160, 168, 175);
 }
 
@@ -14,3 +14,12 @@
     display:none;
     
 }
+
+h2 span.spacer {
+    padding:0 5px;
+ }
+
+ .about_website{
+     margin-top: 200px;
+     background-color: lightyellow;
+ }
