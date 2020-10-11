@@ -225,3 +225,39 @@ h2 span.spacer {
      height: 100%;
  }
 
+
+ footer{
+     background-color: rgb(255, 251, 251);
+     height: 500px;
+ }
+
+ .first_footer{
+     background-color: cadetblue;
+     height:200px ;
+     max-width: 100%;
+ }
+
+ .web_ink{
+     color: black;
+ }
+
+
+ .col1{
+     float: left;
+     display: flex;
+     flex-direction: column;
+     background-color: burlywood;
+     margin-top: 10px;
+ }
+ .col2{
+    float: left;
+    display: flex;
+    flex-direction: column;
+    background-color: burlywood;
+}
+.col3{
+    float: left;
+    display: flex;
+    flex-direction: column;
+    background-color: burlywood;
+}
