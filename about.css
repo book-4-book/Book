@@ -60,16 +60,40 @@ h2 span.spacer {
     
  }
  .include_about{
-     height:200px;
+     height:170px;
  }
 
  .how_do{
      max-width: 100%;
      background-color: rgb(150, 204, 201);
-     height: 100px;
+     height: 300px;
      margin-top: 20px;
+     padding-top: 10px;
+    
      
  }
+
+ .how_do_head{
+     background-color: rgb(80, 133, 130);
+    padding-left: 20px;
+     height: 40px;
+     margin-left: 10px;
+     margin-right: 20px;
+     margin-top: 10px;
+     padding-top: 5px;
+     box-shadow: rgb(35, 66, 65) 5px 10px 18px;
+    color: rgb(255, 255, 255);
+ }
+
+ .how_do_about{
+    height: 100px;
+}
+.cont1{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 70px;
+}
+
 
  .how_start{
      margin-top: 20px;
@@ -77,8 +101,11 @@ h2 span.spacer {
      height: 500px;
      background-color: lightyellow;
      margin-bottom: 20px;
+     
+
  }
 
+ 
  .how_start_pic{
      width: 400px;
      height: 500px;
@@ -93,7 +120,82 @@ h2 span.spacer {
      float: left;
      display: flex;
      flex-direction: column;
-     margin-left: 20px;
+     margin-left: 40px;
     background-color: rgb(255, 211, 144);
+    
+ }
+
+ .how_start_title{
+     margin-top: 20px;
+     box-shadow: rgb(211, 146, 49) 5px 10px 18px ;
+     background-color:  rgb(207, 164, 100);
+     margin-left: 20px;
+     margin-right: 20px;
+     padding-left: 20px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     color: rgb(78, 52, 49);
+ }
+
+ .include_how_start{
+     height: 100px;
+ }
+
+ .world_book{
+     max-width: 100%;
+     height: 500px;
+     background-color: rgb(240, 168, 160);
+     padding-top: 20px;
+     margin-bottom: 20px;
+ }
+
+ .world_book_head{
+     margin-top: 20px;
+     margin-right: 20px;
+     margin-left: 20px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-left:20px ;
+     background-color: rgb(185, 97, 88);
+    box-shadow: salmon 5px 10px 18px;
+ }
+
+ .top_book{
+     background-color: rgb(248, 220, 200);
+     margin-top: 40px;
+     margin-left: 60px;
+     margin-right: 60px;
+     padding-top: 20px;
+     
+ }
+
+ .top_book_head{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left:20px ;
+    background-color: rgb(184, 79, 68);
+   box-shadow: rgb(155, 80, 71) 5px 10px 18px;
+ }
+
+ .top_book_contain{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left:20px ;
+    background-color: rgb(184, 79, 68);
+   box-shadow: rgb(155, 80, 71) 5px 10px 18px;
+   float: left;
+   display: flex;
+   flex-direction: column;
+
+ }
+
+ .top_book_list{
+     
  }
 
