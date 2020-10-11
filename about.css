@@ -232,7 +232,7 @@ h2 span.spacer {
  }
 
  .first_footer{
-     background-color: cadetblue;
+     background-color: rgb(17, 19, 19);
      height:200px ;
      max-width: 100%;
  }
@@ -248,16 +248,19 @@ h2 span.spacer {
      flex-direction: column;
      background-color: burlywood;
      margin-top: 10px;
+     width: 25%;
  }
  .col2{
     float: left;
     display: flex;
     flex-direction: column;
     background-color: burlywood;
+    width: 50%;
 }
 .col3{
     float: left;
     display: flex;
     flex-direction: column;
     background-color: burlywood;
+    width: 25%;
 }
