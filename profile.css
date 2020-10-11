@@ -219,7 +219,7 @@ img {
   }
 
   .contain2{
-    background-color: gray;
+    background-color: lightgrey;
     height: 500px;
     max-width: 100%;
     margin-left: 10px;
@@ -243,6 +243,9 @@ img {
     background-color: #471a1a;
     width: 100%;
     height: 50px;
+    border-radius: 10px;
+    
+
   }
 
 .book_fav{
