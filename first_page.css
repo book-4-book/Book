@@ -99,29 +99,6 @@ a{
 }
 
 
-/*newst member*/
-.Newest_member{
-    
-    max-width: 50%;
-    height: 50px;
-    font-family: calibari;
-    font-weight: bold;
-    font-size: 20px;
-    background-color: rgb(46, 4, 4);
-    padding: 5px 100px 5px 100px;
-    align-items: center;
-    text-align: center;
-    color: white;
-    align-items: center;
-    float: left;
-    margin-left: 100px; 
-    
-    float: left;
-    flex-direction: column;
-    display: flex;
-   
-
-}
 
 .container2{
     background-color: rgb(218, 165, 165) ;
@@ -142,12 +119,116 @@ a{
 }
 
 .new_srh_head{
-    max-width: 100%;
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
 }
-.wapper{
+
+/*newst member*/
+.Newest_member{
+    
+    max-width: 30%;
+    height: 60px;
+    font-family: calibari;
+    font-weight: bold;
+    font-size: 20px;
     background-color: rgb(46, 4, 4);
+    padding: 5px 100px 5px 100px;
+    align-items: center;
+    text-align: center;
+    color: white;
+    align-items: center;
     margin-left: 100px;
+   
+    
+    float: left;
+    flex-direction: column;
+    display: flex;
+   
+
 }
+
+  /*___search bar____ */
+    
+  .wapper{
+    max-width: 100%;
+    float: left;
+    flex-direction: column;
+    display: flex;
+    bg
+  }
+
+.search_box{
+    width: 270px;
+    height: 60px;
+   
+   background: rgb(46, 4, 4);
+   padding: 2px;
+    align-items: center;
+}
+
+.fa{
+    box-sizing: border-box;
+padding: 10px;
+width: 42.5px;
+height: 42.5px;
+position: absolute;
+top: 0;
+right: 0;
+border-radius: 50%;
+color: #07051a;
+text-align: center;
+font-size: 1.2em;
+transition: all 1s;
+}
+
+form{
+    position: relative;
+   /* top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);*/
+    transition: all 1s;
+    width: 50px;
+    height: 50px;
+    background: white;
+    box-sizing: border-box;
+    border-radius: 25px;
+    border: 4px solid white;
+    padding: 5px;
+}
+
+
+.input{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;;
+    height: 42.5px;
+    line-height: 30px;
+    outline: 0;
+    border: 0;
+    display: none;
+    font-size: 1em;
+    border-radius: 20px;
+    padding: 0 20px;
+
+}
+form:hover{
+    width: 200px;
+    cursor: pointer;
+}
+form:hover input{
+    display: block;
+}
+
+form:hover .fa{
+    background: #07051a;
+    color: white;
+}
+
+/*___Search box end___*/
+
+
 
 .tb_1{
     max-width: 100%;
@@ -204,10 +285,6 @@ td{
     
 
 }
-
-
-
-
 
 .scrolling_box{
     width: 150px;
@@ -313,87 +390,7 @@ td{
 
 
 
-    /*___search bar____ */
-    
-    .wrapper{
-        max-width: 50%;
-        float: left;
-        flex-direction: column;
-        display: flex;
-        background: rgb(175, 98, 98)155, 107, 107);
-
-
-    }
-    
-    .search_box{
-        width: 200px;
-        height: 50px;
-        position: relative;
-        padding-left: 40px;
-        margin-left: 100px;
-        align-items: center;
-    }
-
-    .fa{
-        box-sizing: border-box;
-    padding: 10px;
-    width: 42.5px;
-    height: 42.5px;
-    position: absolute;
-    top: 0;
-    right: 0;
-    border-radius: 50%;
-    color: #07051a;
-    text-align: center;
-    font-size: 1.2em;
-    transition: all 1s;
-    }
-
-    form{
-        position: relative;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-        transition: all 1s;
-        width: 50px;
-        height: 50px;
-        background: white;
-        box-sizing: border-box;
-        border-radius: 25px;
-        border: 4px solid white;
-        padding: 5px;
-    }
-
-
-    .input{
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;;
-        height: 42.5px;
-        line-height: 30px;
-        outline: 0;
-        border: 0;
-        display: none;
-        font-size: 1em;
-        border-radius: 20px;
-        padding: 0 20px;
-
-    }
-    form:hover{
-        width: 200px;
-        cursor: pointer;
-    }
-    form:hover input{
-        display: block;
-    }
-    
-    form:hover .fa{
-        background: #07051a;
-        color: white;
-    }
-   
-/*___Search box end___*/
+  
  
     .container6{
         width: 250px;
