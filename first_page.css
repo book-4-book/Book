@@ -132,9 +132,14 @@ a{
     flex-direction: column;
     width: 50%;
     float: left;
-    padding-top: 10px;
+    
     
 
+}
+
+.wapper{
+    background-color: aquamarine;
+    margin-left: 100px;
 }
 
 .tb_1{
