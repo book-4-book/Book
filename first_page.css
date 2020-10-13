@@ -268,10 +268,10 @@ form:hover .fa{
     margin-top: 20px;
 }
 table_row{
-  width: 300px;
+  width: 400px;
 }
 td{
-    width: 200px;
+    width: 250px;
     align-items: center;
     padding-left: 20px;
     margin-right: 10px;
@@ -291,7 +291,7 @@ td{
     float: left;
     height: 100vh;
     background-color: grey ;
-   margin-left: 100px;
+    margin-left: 100px;
     display: flex;
     flex-direction: column;
     align-items: left;
@@ -302,21 +302,24 @@ td{
 
 }
 
-.containe6{
-    width: 100%;
+.container6{
+   
     float: left;
-    height: 100vh;
-    background-color: grey ;
-    margin: 20px 10px;
+  
     display: flex;
     flex-direction: column;
     align-items: left;
     align-items:center;
     overflow: auto;
-    padding: 0 100px 0 0 ;
+    
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 120px;
+    background-color: cornsilk;
     
 
 }
+
 
 .scrolling_box{
     width: 150px;
@@ -330,6 +333,7 @@ td{
     justify-content: space-between;
     box-sizing: border-box;
     margin-left: 5px;
+   
     
 
 }
@@ -431,6 +435,4 @@ td{
 
   
  
-    .container6{
-        width: 250px;
-    }
+ 
