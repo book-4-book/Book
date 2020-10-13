@@ -437,23 +437,18 @@ td{
 }
 
 
-/* Location member map */
-.map-container{
-    overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
-    }
-    .map-container iframe{
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-    }
+
 
 
 
   
  
- 
+    .mapouter{
+        max-width: 100%;
+    }
+
+    .gmap_canvas {
+        width: ;
+        overflow:hidden;
+        background:none!important;
+       
