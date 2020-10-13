@@ -332,6 +332,12 @@ td{
     
 
 }
+.location{
+    max-width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: lightpink;
+}
 
 
 .scrolling_box{
