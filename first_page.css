@@ -51,6 +51,13 @@
     background-color:  rgb(248, 248, 248);
     float: right;
     height: 50px;
+    display: flex;
+    margin-left: 800px;
+
+}
+
+.ah_bar{
+    
 }
 
 .third_head_heder{
@@ -66,17 +73,26 @@
 
 .nav_bar{
     padding-left: 40px;
-    padding-top: 40px;
+    padding-top: 20px;
     padding-right: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 
     color: rgb(59, 6, 6);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav_bar:hover{
+    color: whitesmoke;
+    border-color: rgb(219, 125, 125);
+    border-width: 2px;
+    border-radius: 5px;
+    background-color: rgb(88, 45, 45);
+    box-shadow: rgb(202, 132, 132)  5px 10px 18px;
 }
 
 .line_bar{
     background-color: darksalmon;
     color:  rgb(59, 6, 6);
+    height: 2px;
 }
 
 
@@ -424,7 +440,7 @@ td{
     height: 200px;
     background-color: rgb(86, 109, 160);
     border-radius:10px ;
-    box-shadow: 2px 10px 12px rgba(1, 9, 36, 0.5);
+    box-shadow: 2px 10px 12px rgba(0, 5, 20, 0.822);
     display: flex;
     flex-direction: column;
     align-items: center;
