@@ -4,13 +4,76 @@
 
 /*_----header section-----_*/
 
+.first_head{
+    max-width: 100%;
+    
+}
+
 .logo_col{
     flex-direction: column;
     display: flex;
-    flo
-    flo
+    float: left;
+   width: 25%;
+    height: 150px;
+    background-color: rgb(247, 247, 247);
+    padding: 30px;
 }
 
+.se_bar{
+    width: 200px;
+    height: 30px;
+    padding: ;
+}
+.head_serach_bar_header{
+    flex-direction: column;
+    display: flex;
+    float: left;
+    width: 50%;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+}
+
+.sin_up_in_btn{
+    flex-direction: column;
+    display: flex;
+    float: left;
+    width: 25%;
+    height:150px;
+    background-color:  rgb(255, 255, 255);
+}
+
+.about_How_head{
+    width: 100%;
+    background-color:  rgb(248, 248, 248);
+    float: right;
+    height: 50px;
+}
+
+.third_head_heder{
+    width: 100%;
+    background-color: rgb(252, 252, 252);
+} 
+
+.nav_bar_header{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 40px;
+}
+
+.nav_bar{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+
+    color: rgb(59, 6, 6);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.line_bar{
+    background-color: darksalmon;
+    color:  rgb(59, 6, 6);
+}
 
 
 
