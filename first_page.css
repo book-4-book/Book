@@ -103,9 +103,10 @@ a{
 .container2{
     background-color: rgb(122, 90, 90) ;
     max-width: 100%;
-    height: 800px;
+    height: 600px;
     margin-left: 100px;
     margin-right: 100px;
+    margin-bottom: 20px;
     
 
    
@@ -124,7 +125,7 @@ a{
 .new_srh_head_left{
     width: 100%;
     height: 80px;
-    background-color:  rgb(122, 90, 90);
+    background-color:  rgb(51, 27, 27);
     padding-top: 10px;
 }
 
@@ -244,7 +245,7 @@ form:hover .fa{
 .new_srh_head_right{
     width: 100%;
     height: 80px;
-    background-color: rgb(122, 90, 90);
+    background-color: rgb(51, 27, 27);
     padding-top: 10px;
     padding-left: 100px;
 
@@ -399,7 +400,7 @@ td{
     font-size: 20px;
     background-color: rgb(46, 4, 4);
 
-    padding-top: 10px;
+    padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 10px;
@@ -407,7 +408,7 @@ td{
     text-align: center;
     color: white;
     float: left;
-
+    
     border-top-left-radius: 50px;
     border-bottom-left-radius: 50px;
     
@@ -423,7 +424,7 @@ td{
     align-items:center;
     overflow: auto;
     padding-top: 20px;
-    margin-top: 5px;
+    margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
     background-color: cornsilk;
@@ -436,7 +437,8 @@ td{
     padding-right: 20px;
     padding-top: 20px;
     padding-right: 20px;
-   
+   padding-bottom: 20px;
+   border-radius: 5px;
     background-color: rgb(180, 164, 166);
     overflow: auto;
 }
