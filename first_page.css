@@ -19,11 +19,7 @@
     padding: 30px;
 }
 
-.se_bar{
-    width: 200px;
-    height: 30px;
-    padding: ;
-}
+
 .head_serach_bar_header{
     flex-direction: column;
     display: flex;
@@ -31,6 +27,14 @@
     width: 50%;
     height: 150px;
     background-color: rgb(255, 255, 255);
+}
+.se_bar{
+    width: 200px;
+    height: 30px;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 30px;
+
 }
 
 .sin_up_in_btn{
