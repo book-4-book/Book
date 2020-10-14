@@ -82,7 +82,7 @@
       <div class="contain2" >
           <div class="wind1">
 
-            
+
             <div class="book_fav_head">
                   <div class="book_fav">
                     Add Favourit Books
@@ -102,8 +102,41 @@
             <div class="row2"></div>
             <div class="row3" >
                 <div class="row4">
-                  <button type="button" class="btn_colaps" data-toggle="collapse" data-target="#demo" style="color: #471a1a; border-radius: 25%; background-color: transparent;"><i class="fa fa-plus-square-o" aria-hidden="true" style="font-size: 100px;"></i></button>
-                </div>
+                  <button type="button" class="btn_colaps" data-toggle="collapse" data-target="#demo" 
+                      style="color: #471a1a; border-radius: 25%; background-color: transparent;">
+                    <i class="fa fa-plus-square-o" aria-hidden="true" style="font-size: 100px;"></i></button>
+
+                    <div class="input-form">
+                      <input type="text" placeholder="Enter name" id="name" class="txt">
+                    </div>
+                      <input type="button" id="but_add" value="Add new">
+                      
+
+
+                    
+                <script>
+                  $(document).ready(function(){
+
+                  $('#but_add').click(function(){
+
+                  // Create clone of <div class='input-form'>
+                  var newel = $('.input-form:last').clone();
+
+                  // Add after last <div class='input-form'>
+                  $(newel).insertAfter(".input-form:last");
+                  });
+
+                  $('.txt').focus(function(){
+                  $(this).css('border-color','red');
+                  });
+
+                  $('.txt').focusout(function(){
+                  $(this).css('border-color','initial');
+                  });
+
+                  });
+               </script>
+               
                 <p style="font-size: 30px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
                   Added your Favourit books in our book collection.....</p>
                 <div class="collapse" id="demo">
