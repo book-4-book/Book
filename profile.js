@@ -23,23 +23,23 @@ $(document).ready(function() {
     });
 });
 
+      $(document).ready(function(){
+                    $('#but_add').click(function(){
+                      //create colne of <div class="input-form">
+                      var new1 = $('.input-form:last').clone(true);
 
-    $(document).ready(function(){
-        $('#but_add').click(function(){
+                      //add after last <div class="input-form">
+                      $(newel).insertAfter('.input-form:last');
 
-    // Create clone of <div class='input-form'>
-        var newel = $('.input-form:last').clone();
+                    });
 
-    // Add after last <div class='input-form'>
-        $(newel).insertAfter(".input-form:last");
-     });
+                    $('.txt').focus(function(){
+                      $(this).css("border-color","red");
 
-    $('.txt').focus(function(){
-        $(this).css('border-color','red');
-    });
+                    });
 
-    $('.txt').focusout(function(){
-        $(this).css('border-color','initial');
-    });
+                    $('.txt').focusout(function(){
+                      $(this).css("border-color","initial");
 
-    });
+                    });
+                  });
