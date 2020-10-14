@@ -249,18 +249,21 @@ img {
   }
 
 .book_fav{
+  
+  display: flex;
+  flex-direction: column;
+  float: left;
+  width: 50%;
+  height: 80px;
+  
   color: rgb(41, 5, 5);
-  display: flex;
-  flex-direction: column;
-  float: left;
-  margin-left: 100px;
-  padding-top: 10px;
+  text-align: center;
   font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  padding-top: 10px;
+ 
 
-  max-width: 50%;
-  float: left;
-  flex-direction: column;
-  display: flex;
   
 
  
@@ -269,10 +272,14 @@ img {
  /*___search bar____ */
     
  .wapper{
-  max-width: 50%;
+  width: 50%;
   float: left;
   flex-direction: column;
   display: flex;
+  height: 80px;
+
+  align-items: center;
+  padding-left: 300px;
   
 }
 
@@ -288,7 +295,7 @@ img {
   
 }
 
-.fa{
+.srh{
   box-sizing: border-box;
 padding: 10px;
 width: 42.5px;
@@ -342,7 +349,7 @@ form:hover input{
   display: block;
 }
 
-form:hover .fa{
+form:hover .srh{
   background: #07051a;
   color: white;
 }
