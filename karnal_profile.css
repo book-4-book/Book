@@ -280,7 +280,18 @@
 }
 
 
+/*----current reading books---*/
 .Current_book_name{
     color: gainsboro;
     font-size: 20px;
+}
+
+.book_auther_write{
+    text-align: right;
+    color: ivory;
+
+}
+.book_about_write{
+    text-align: left;
+    color: burlywood;
 }
