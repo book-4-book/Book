@@ -189,8 +189,8 @@ img {
       margin-left: 100px;
       padding-top: 20px;
       padding-left: 20px;
-    width: 50%;
-    height: 400px;
+      width: 50%;
+     height: 400px;
       
       align-items: center;
       
@@ -306,7 +306,7 @@ font-size: 1.2em;
 transition: all 1s;
 }
 
-form{
+.srh_form{
   position: relative;
  /* top: 50%;
   left: 50%;
@@ -337,15 +337,15 @@ form{
   padding: 0 20px;
 
 }
-form:hover{
+.srh_form:hover{
   width: 200px;
   cursor: pointer;
 }
-form:hover input{
+.srh_form:hover input{
   display: block;
 }
 
-form:hover .srh{
+.srh_form:hover .srh{
   background: #07051a;
   color: white;
 }
