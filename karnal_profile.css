@@ -1,9 +1,15 @@
+.all_body{
+    background-color:rgb(233, 219, 219) ;
+}
+
+
+
 .selector-for-some-widget {
     box-sizing: content-box;
   }
 
   .container{
-      background-color:  rgb(48, 12, 12);
+      background-color:  rgb(233, 219, 219);
       overflow: auto;
 
   }
@@ -21,17 +27,18 @@
       margin-bottom: 10px;
       box-shadow: rgb(68, 55, 55) -20px -5px 30px;
       border-top-right-radius: 50%;
+      border-top-left-radius:10% ;
+      
       
 
   }
   .pic_ajest{
       max-width: 100%;
-      margin-left: 5px;
-      margin-top: 5px;
+      
       box-shadow: rgb(68, 55, 55) 20px 5px 30px;
       border-radius: 10%;
       border-style: solid;
-      border-width: 10px;
+      border-width: 5px;
       border-color: rgb(150, 132, 132);
       border-bottom-right-radius: 100%;
       border-top-right-radius: 100%;
@@ -43,7 +50,7 @@
   .details{
       padding-top: 10px;
       background-color: #58111a1e #733635 ;
-      color: #e9c5b8;
+      color: #271c18;
       margin: 20px;
       padding-left: 10px;
       padding-bottom: 10px;
@@ -64,13 +71,13 @@
       flex-direction: column;
       display: flex;
       max-width: 50%;
-      background-color: rgb(48, 12, 12);
+      background-color: rgb(233, 219, 219);
      
       float: left;
   }
 
   .second-col{
-      background-color: rgb(48, 12, 12);
+      background-color: rgb(233, 219, 219);
       flex-direction: column;
       display: flex;
       max-width: 100%;
@@ -90,14 +97,14 @@
 
 
  .btn-collapse{
-     background-color: silver;
+     background-color: rgb(247, 234, 234);
      width: 100%;
-     color: rgb(19, 9, 9);
+     color: rgb(73, 41, 23);
      font-size: 20px;
      font-style:normal;
      border-top-right-radius: 100%;
      border-bottom-right-radius:  100%;
-     border-color: rgb(243, 110, 110);
+     border-color: rgb(255, 222, 222);
      border-width: 2px;
      border-bottom-left-radius: 5px;
      border-top-left-radius: 5px;
@@ -106,14 +113,14 @@
 
  
  .btn-collapse2{
-    background-color: silver;
+    background-color: rgb(247, 234, 234);
     width: 100%;
-    color: rgb(19, 9, 9);
+    color: rgb(73, 41, 23);
     font-size: 20px;
     font-style:normal;
     border-top-left-radius: 100%;
     border-bottom-left-radius:  100%;
-    border-color: rgb(243, 110, 110);
+    border-color: rgb(255, 222, 222);
     border-width: 2px;
     border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
