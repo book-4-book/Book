@@ -73,11 +73,11 @@ img {
 }
 .p-image {
   position: absolute;
-  top: 250px;
-  right: 50px;
-  color: #471a1a;
-  font-size:48px;
+  color: #331212;
+  
   transition: all .3s cubic-bezier(.175, .885, .32, 1.275);
+  margin-top: 300px;
+  margin-left: 60px;
   
 }
 
@@ -85,7 +85,7 @@ img {
   transition: all .3s cubic-bezier(.175, .885, .32, 1.275);
 }
 .upload-button {
-  font-size: 1.2em;
+  
 }
 
 .upload-button:hover {
@@ -170,12 +170,16 @@ img {
   .details_form{
 
   }
+  
 
 .e_col{
   float: left;
   display: flex;
   flex-direction: column;
   width: 50%;
+  /*background-color: lavenderblush;*/
+  margin-top: 60px;
+ 
   
 }
 
@@ -184,6 +188,8 @@ img {
   display: flex;
   flex-direction: column;
   width: 50%;
+  
+  margin-top: 60px;
 }
 
 
@@ -215,10 +221,17 @@ img {
   .e_button,.d_button {
     margin-top: 2px;
     background: white;
-    color: pink;
+    color: rgb(240, 76, 103);
     border: solid 1px pale;
     border-radius: 5px;
-    width: 5;
+    width: 60px;
+    margin-left: 20px;
+  }
+
+  .e_button:hover,.d_button:hover{
+    background-color: lavender;
+    color: lightseagreen;
+    border-color: rgb(5, 88, 84);
   }
 
   .details{
