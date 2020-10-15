@@ -351,6 +351,24 @@ section {
     margin-top: 25px;
 }
 
+.fa-chevron-up{
+    font-size: 32px;
+    color: #000000;
+}
+
+.fa-chevron-up:hover{
+    color: #797979cc;
+}
+
+.topBtn{
+    float: right;
+}
+
+.topLbl{
+    font-size: 16px;
+    margin-right: 10px;
+}
+
 .searchText{
     float: left;
     width: 570px;
