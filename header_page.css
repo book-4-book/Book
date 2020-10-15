@@ -7,3 +7,26 @@
     color: #252525;
     font-weight: 600;
 }
+
+.set_list{
+    float: left;
+    
+}
+
+.set_list a {
+    display: block;
+    color: #252525;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .set_list a:hover:not(.active) {
+    color: white;
+    background-color:#252525 ;
+  }
+  
+  .active {
+    background-color: #252525;
+    color: white;
+  }
