@@ -188,6 +188,7 @@ a{
     justify-content: space-between;
     box-sizing: border-box;
     margin: 20px 10px;
+    
 }
 .box:hover{
     background-color:rgb(19, 16, 16)  ;
@@ -606,6 +607,7 @@ td{
     overflow: auto;
     width: 400px;
     height: 150px;
+    color: rgb(34, 7, 7);
 
    }
 
@@ -614,9 +616,9 @@ td{
 /*1st*/
 .m1_name{
     width: 100%;
-    height: 200px;
-    padding-top: 20px;
-    
+    height: 250px;
+    padding-top: 50px;
+    padding-left: 20px;
     
 }
 
@@ -632,15 +634,16 @@ td{
  display: flex;
  flex-direction: column;
  width: 50%;
+ font-size: 20px;
 }
 
 
 /*2*/
 .m2_name{
     width: 100%;
-    height: 200px;
-    padding-top: 20px;
-     padding-left: 20px;
+    height: 250px;
+    padding-top: 50px;
+    padding-left: 20px;
     
 }
 
@@ -656,15 +659,16 @@ td{
  display: flex;
  flex-direction: column;
  width: 50%;
+ font-size: 20px;
 }
 
 
 /*3*/
 .m3_name{
     width: 100;
-    height: 200px;
-    padding-top: 20px;
-     padding-left: 20px;
+    height: 250px;
+    padding-top: 50px;
+    padding-left: 20px;
     
 }
 
@@ -680,15 +684,16 @@ td{
  display: flex;
  flex-direction: column;
  width: 50%;
+ font-size: 20px;
 }
 
 
 /*4*/
 .m4_name{
     width: 100;
-    height: 200px;
-    padding-top: 20px;
-     padding-left: 20px;
+    height: 250px;
+    padding-top: 50px;
+    padding-left: 20px;
     
 }
 
@@ -704,4 +709,5 @@ td{
  display: flex;
  flex-direction: column;
  width: 50%;
+ font-size: 20px;
 }
