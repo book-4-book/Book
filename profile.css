@@ -701,19 +701,3 @@ transition: all 1s;
 
 
 
-
-  .drop_down{
-
-  }
-
-  .drop_down_content{
-    display: none;
-    position: absolute;
-    background-color: red;
-    min-width: 160px;
-    z-index: 1;
-  }
-
-  .drop_down:hover .drop_down_content{
-    display: block;
-  }
