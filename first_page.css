@@ -597,4 +597,17 @@ td{
 
 
 
-   
+   .contain7{
+       width: 100%;
+       height: 500px;
+       margin-left: 100px;
+   }
+
+   .m1_name{
+       width: 500px;
+       height: 200px;
+         overflow: auto;
+         float: left;
+         display: flex;
+         flex-direction: ;
+   }
