@@ -171,8 +171,20 @@ img {
 
   }
 
+.e_col{
+  float: left;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  
+}
 
-
+.s_col{
+  float: left;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
 
 
 
@@ -182,7 +194,7 @@ img {
 
 
   
- /* button {
+ .e_details,.s_details {
     padding: 12px;
     font-family: sans-serif;
     text-transform: uppercase;
@@ -193,19 +205,21 @@ img {
     outline: none;
     display: block;
   }
-    button.hover {
+    .e_details:hover ,.s_details:hover {
       background: pale;
-      color: white;
+      color: rgb(20, 13, 13);
       transition: background-color 1s ease-out;
     }
   
   
-  .button {
+  .e_button,.d_button {
     margin-top: 2px;
     background: white;
     color: pink;
     border: solid 1px pale;
-  }*/
+    border-radius: 5px;
+    width: 5;
+  }
 
   .details{
       margin-left: 100px;
