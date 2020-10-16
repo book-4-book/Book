@@ -1,3 +1,84 @@
+.all_contain{
+    height: 540px;
+    width: 100%;
+    overflow: auto;
+}
+
+
+
+
+
+.search_bar_section{
+    max-width: 100%;
+    height: 60px;
+    color: rgba(128, 128, 128, 0.534);
+    background-color: silver;
+    background-image: linear-gradient(rgb(214, 211, 211),rgb(240, 239, 239),rgb(243, 243, 243), rgb(241, 241, 241) ,rgb(235, 235, 235),white);
+    padding-top: 10px;
+    
+  
+  }
+  
+  .ser_bar{
+    float: left;
+    flex-direction: column;
+    display: flex;
+    width: 50%;
+  }
+  
+  .ser_box{
+    background-color: transparent;
+    border: transparent;
+    margin-left: 400px;
+  
+  
+  }
+  
+  .ser_box:hover{
+    background-color: transparent;
+    border: transparent;
+    margin-left: 400px;
+  
+  
+  }
+  
+  .ser_btn{
+    float: left;
+    flex-direction: column;
+    display: flex;
+    width: 50%;
+  }
+  
+  
+  .src_btn{
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    border-radius: 50px;
+    color: white;
+    background-color:  rgb(51, 35, 35);
+    width: 150px;
+    border:rgb(51, 35, 35) ;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .cantainer{
     background-color: rgb(160, 168, 175);
 }
