@@ -1,0 +1,328 @@
+.logo_sec{
+    background-color: white;
+    margin-top: 5px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.logo_btn_nav{
+    color:rgb(51, 35, 35) ;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+   
+   
+}
+.logo_btn_nav:hover{
+    color:rgb(51, 35, 35) ;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    
+    text-decoration: none;
+   
+}
+
+
+
+
+.nav_bar_ul{
+    background-color: white;
+    height: 70px;
+    margin-top: 5px;
+}
+
+.two_btn{
+    background-color: white;
+   
+    margin-top: 5px;
+}
+
+
+
+
+.first_sc{
+    width: 100%;
+    background-color: rgb(51, 35, 35);
+    height: 76px;
+   
+
+}
+
+.logo_sec{
+    float: left;
+    flex-direction: column;
+    display: flex;
+   
+    width: 17%;
+    
+}
+
+.nav_bar_sec{
+    float: left;
+    flex-direction: column;
+    display: flex;
+   
+    width: 63%;
+    
+}
+
+.btn_sl{
+    float: left;
+    flex-direction: column;
+    display: flex;
+    
+    width: 20%;
+
+}
+.list{
+    color: rgb(51, 35, 35);
+
+}
+
+
+.list:hover{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(51, 35, 35);
+    
+}
+
+
+.first_li{
+    float: left;
+    flex-direction: column;
+    display: flex;
+    
+    padding-top: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    color: rgb(51, 35, 35);
+
+    
+
+}
+
+.first_li:hover{
+    background-color: rgb(51, 35, 35);
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+
+.second_li{
+    float: left;
+    flex-direction: column;
+    display: flex;
+   
+    padding-top: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+
+}
+
+.second_li:hover{
+    background-color: rgb(51, 35, 35);
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+.third_li{
+    float: left;
+    flex-direction: column;
+    display: flex;
+    
+    padding-top: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+
+}
+
+.third_li:hover{
+    background-color: rgb(51, 35, 35);
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+.forth_li{
+    float: left;
+    flex-direction: column;
+    display: flex;
+    
+    padding-top: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+
+}
+
+.forth_li:hover{
+    background-color: rgb(51, 35, 35);
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+.fifth_li{
+    float: left;
+    flex-direction: column;
+    display: flex;
+    
+    padding-top: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+
+}
+
+.fifth_li:hover{
+    background-color: rgb(51, 35, 35);
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+.six_li{
+    float: left;
+    flex-direction: column;
+    display: flex;
+   
+    padding-top: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+
+}
+
+.six_li:hover{
+    background-color: rgb(51, 35, 35);
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+.seven_li{
+
+    float: left;
+    flex-direction: column;
+    display: flex;
+    
+    padding-top: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+
+}
+
+.seven_li:hover{
+    background-color: rgb(51, 35, 35);
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+
+
+.sl_list{
+    color: white;
+
+
+}
+
+
+.sl_list:hover{
+    color: white;
+   
+    text-decoration: none;
+    
+
+}
+
+.sn_li{
+    float: left;
+    flex-direction: column;
+    display: flex;
+   
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    background-color: rgb(51, 35, 35);
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.sn_li:hover{
+    background-color: rgba(51, 35, 35, 0.925);
+    text-decoration: none;
+    color: white;
+
+    
+
+}
+
+.lg_li{
+    float: left;
+    flex-direction: column;
+    display: flex;
+    
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    background-color: rgb(51, 35, 35);
+
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.lg_li:hover{
+    background-color: rgba(51, 35, 35, 0.925);
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+
+
+.main_section{
+    height: 800px;
+    max-width: 100%;
+    overflow: auto;
+}
+
+.serch_sec{
+    background-color: gray;
+}
+.bar_sec{
+
+}
+.serch_btn_section{
+
+}
+
+.srh_btn_heder{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    color: white;
+    background-color: rgb(51, 35, 35);;
+}
