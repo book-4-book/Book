@@ -1,8 +1,23 @@
+.all_member_page{
+   
+    height: 550px;
+    width: 100%;
+    overflow: auto;
+    
+}
+
+
+
+
+
+
+
 .search_bar_section{
     width: 100%;
     height: 60px;
     color: rgba(128, 128, 128, 0.534);
     background-color: rgba(199, 199, 199, 0.555);
+    padding-top: 10px;
 
 }
 
@@ -14,6 +29,14 @@
 }
 
 .ser_box{
+    background-color: transparent;
+    border: transparent;
+    margin-left: 400px;
+
+
+}
+
+.ser_box:hover{
     background-color: transparent;
     border: transparent;
     margin-left: 400px;
