@@ -540,10 +540,10 @@ section {
 }
 
 
-/* FOOTER */
+/* FOOTER */ /*#e2d3c5*/
 
 footer {
-    background: #e2d3c5;
+    background: #645349;
     padding: 20px 0;
 }
 
@@ -643,7 +643,7 @@ footer .social-icon {
 
 .social-icon li a {
     border-radius: 100px;
-    color: #675a5a;
+    color: #aa9494;
     font-size: 45px;
     width: 35px;
     height: 35px;
@@ -656,8 +656,8 @@ footer .social-icon {
 }
 
 .social-icon li a:hover {
-    background: #fff;
-    color: #675a5a;
+    background: rgb(226, 210, 210);
+    color: #70646400;
 }
 
 
