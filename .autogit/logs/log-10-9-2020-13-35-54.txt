@@ -1,0 +1,25 @@
+-------------------- Auto-Git Log --------------------
+		Sat Oct 10 2020 13:35:54 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* about.html
+
+
+Created files:
+* picture/World-Summit-Awards.jpg
+* picture/libarary1.jpg
+* picture/libarary2.jpg
+* picture/libarary3.jpg
+* picture/libarary4.jpg
+* picture/libarary5.jpg
+* picture/libarary6.jpg
+* picture/libarary7.jpg
+* picture/libarary8.jpg
+* picture/world_summit_aword_2013.jpg
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Thu Oct 15 2020 22:20:10 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* header_page.css
+* header_page.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

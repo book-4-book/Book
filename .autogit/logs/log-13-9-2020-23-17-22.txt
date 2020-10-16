@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Tue Oct 13 2020 23:17:22 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* first_page.css
+* first_page.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

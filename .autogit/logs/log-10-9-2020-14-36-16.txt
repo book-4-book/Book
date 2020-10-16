@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Sat Oct 10 2020 14:36:16 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* about.css
+* about.html
+* about.js
+
+
+Created files:
+* picture/andrew-neel--FVaZbu6ZAE-unsplash.jpg
+* picture/aziz-acharki-gXndgCS-CGo-unsplash.jpg
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Wed Oct 14 2020 12:18:56 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* profile.html
+* profile.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Thu Oct 15 2020 17:46:08 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* first_page.html
+* karnal_profile.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

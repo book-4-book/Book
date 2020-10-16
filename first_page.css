@@ -1,3 +1,47 @@
+.search_bar_section{
+    width: 100%;
+    height: 60px;
+    color: rgba(128, 128, 128, 0.534);
+    background-color: rgba(199, 199, 199, 0.555);
+
+}
+
+.ser_bar{
+    float: left;
+    flex-direction: column;
+    display: flex;
+    width: 50%;
+}
+
+.ser_box{
+    background-color: transparent;
+    border: transparent;
+    margin-left: 400px;
+
+
+}
+
+.ser_btn{
+    float: left;
+    flex-direction: column;
+    display: flex;
+    width: 50%;
+}
+
+
+.src_btn{
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    border-radius: 50px;
+    color: white;
+    background-color:  rgb(51, 35, 35);
+    width: 150px;
+    border:rgb(51, 35, 35) ;
+}
+
+
 
 
 
