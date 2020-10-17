@@ -1,0 +1,122 @@
+footer{
+    width: 100%;
+}
+.all_footer{
+    width: 100%;
+    height: 300px;
+    background-color: #2e2e2e;
+}
+
+.icons_section{
+    flex-direction: column;
+    float: left;
+    display: flex;
+    max-width: 30%;
+    color: white;
+    
+    height: 200px;
+
+}
+
+.btn_top{
+    flex-direction: column;
+    float: left;
+    display: flex;
+    max-width: 50%px;
+    height: 300px;
+    align-items: center;
+    
+
+}
+
+.footer_logo{
+    flex-direction: column;
+    float: left;
+    display: flex;
+    max-width: 25%px;
+    height: 300px;
+   
+    
+
+}
+
+.web_email{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.social_icon_list{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.icon_list{
+   color: white;
+    
+}
+
+.icon_social{
+    flex-direction: column;
+    float: left;
+    display: flex;
+   
+    color: rgb(122, 28, 28);
+    font-size: 100px;
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 100px;
+    
+}
+
+
+
+
+.btn-warning{
+    width: 100px;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.footer_logo{
+    flex-direction: column;
+    float: left;
+    display: flex;
+    width: 25%px;
+    height: 300px;
+   
+    
+
+}
+
+.logo_btn_nav_footer{
+    color: white;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 200px;
+    font-size: 30px;
+}
+
+
+.logo_btn_nav_footer:hover{
+    color: white;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 200px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.web_email{
+    margin-top: 50px;
+    padding-left: 20px;
+}
+
+.social_icon_list{
+    margin-top: 20px;
+    margin-left: 20px;
+}
